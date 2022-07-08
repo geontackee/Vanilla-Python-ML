@@ -1,9 +1,5 @@
 # Vanilla-Python-ML
-Importing Weights from Tensorflow Model and running it on Vanilla Python
-Modified Alejandro Escontrela's Numpy-CNN repo to support weights from TensorFlow
-Modified and Written by Geon Tack Lee
-No training supported
-Supports exporting of images after each convolution layer
+Importing Weights from Tensorflow Model and running it on Vanilla Python. Modified Alejandro Escontrela's Numpy-CNN repo to support weights from TensorFlow. Modified and Written by Geon Tack Lee. No training supported. Supports exporting of images after each convolution layer
 
 # How to run:
 1. Run CNN_Train and retrieve a pkl file with the trained TensorFlow model weights.
